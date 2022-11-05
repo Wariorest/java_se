@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="clear commit">
-      <change afterPath="$PROJECT_DIR$/src/singletone/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singletone/EmployeeRiegistryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singletone/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singletone/Registry.java" afterDir="false" />
+    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="Added entity &#10;Employee&#10;Manager&#10;Registry&#10;Added err handlers&#10;EmployeeRiegistryException">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singletone/Registry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletone/Registry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <workItem from="1666090904892" duration="1266000" />
       <workItem from="1666169978538" duration="621000" />
       <workItem from="1666178754073" duration="1785000" />
-      <workItem from="1667667607779" duration="1998000" />
+      <workItem from="1667667607779" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667667849979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added entity &#10;Employee&#10;Manager&#10;Registry&#10;Added err handlers&#10;EmployeeRiegistryException">
+      <created>1667669732450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667669732450</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="clear commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="clear commit" />
+    <MESSAGE value="Added entity &#10;Employee&#10;Manager&#10;Registry&#10;Added err handlers&#10;EmployeeRiegistryException" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added entity &#10;Employee&#10;Manager&#10;Registry&#10;Added err handlers&#10;EmployeeRiegistryException" />
   </component>
 </project>
