@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/lab2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lab2/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +45,12 @@
       <option name="presentableId" value="Default" />
       <updated>1664483687833</updated>
       <workItem from="1664483689397" duration="901000" />
+      <workItem from="1664831942449" duration="310000" />
+      <workItem from="1664832638343" duration="434000" />
+      <workItem from="1664833353169" duration="870000" />
+      <workItem from="1666090904892" duration="1266000" />
+      <workItem from="1666169978538" duration="621000" />
+      <workItem from="1666178754073" duration="1785000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
