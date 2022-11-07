@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="Added registry print methods">
+      <change afterPath="$PROJECT_DIR$/src/singletone/StartSingletoneCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singletone/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletone/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/singletone/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletone/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singletone/Registry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletone/Registry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,11 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +60,7 @@
       <workItem from="1666169978538" duration="621000" />
       <workItem from="1666178754073" duration="1785000" />
       <workItem from="1667667607779" duration="2732000" />
-      <workItem from="1667829850449" duration="2001000" />
+      <workItem from="1667829850449" duration="3205000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667670369608</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added registry print methods">
+      <created>1667838742674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667838742674</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

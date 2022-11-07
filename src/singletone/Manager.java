@@ -16,4 +16,17 @@ public class Manager extends Employee{
     public void setBonus(double bonus) {
         this.bonus = bonus;
     }
+
+    @Override
+    public void printEmpData() {
+        System.out.println("#" +
+                id + " " +
+                firstName + " " +
+                lastName + " dept #" +
+                dept +  " sal: " +
+                sal + " mgr id: " +
+                managerID +" bonus: " +
+                bonus
+        );
+    }
 }
