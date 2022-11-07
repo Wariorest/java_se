@@ -22,8 +22,12 @@ public class Registry {
         }else{
             employers.add(emp);
         }
-
     }
-
+    public void PrintData(){
+        for (Employee emp:
+             this.employers) {
+            emp.printEmpData();
+        }
+    }
 
 }

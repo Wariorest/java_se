@@ -1,13 +1,13 @@
 package singletone;
 
 public class Employee {
-    private int id;
-    private int nextId;
-    private String firstName;
-    private String lastName;
-    private String dept;
-    private double sal;
-    private int managerID;
+    protected int id;
+    protected int nextId;
+    protected String firstName;
+    protected String lastName;
+    protected String dept;
+    protected double sal;
+    protected int managerID;
     Employee(){
         setId(0);
         setFirstName(null);
@@ -80,4 +80,15 @@ public class Employee {
     public void setManagerID(int managerID) {
         this.managerID = managerID;
     }
+    public void printEmpData(){
+        System.out.println("#" +
+                this.id + " " +
+                this.firstName + " " +
+                this.lastName + " dept #" +
+                this.dept +  " sal: " +
+                this.sal + " mgr id: " +
+                this.managerID
+        );
+    }
+
 }
