@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added prototype lab">
-      <change afterPath="$PROJECT_DIR$/src/builder/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/ChickenBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/ColdDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Packing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/VegBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/CompositeStartCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/EmployeeInRegistryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/FieldLengthLimitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/IncorrectSalaryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Registry.java" afterDir="false" />
+    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="Composite lab">
+      <change afterPath="$PROJECT_DIR$/src/memento/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/StartMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Stats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -80,7 +68,7 @@
       <workItem from="1667667607779" duration="2732000" />
       <workItem from="1667829850449" duration="5707000" />
       <workItem from="1668360606832" duration="650000" />
-      <workItem from="1668464345225" duration="791000" />
+      <workItem from="1668464345225" duration="1583000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
@@ -138,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667841548252</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Composite lab">
+      <created>1668465302744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668465302744</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +158,7 @@
     <MESSAGE value="Added registry print methods" />
     <MESSAGE value="added runer class and completed task" />
     <MESSAGE value="added prototype lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="added prototype lab" />
+    <MESSAGE value="Composite lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composite lab" />
   </component>
 </project>
