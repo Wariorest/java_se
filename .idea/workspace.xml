@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added runer class and completed task">
-      <change afterPath="$PROJECT_DIR$/src/bridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/DrawingAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/GreenPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/RedPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/StartBridgeCode.java" afterDir="false" />
+    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added Bridge pattern lab">
+      <change afterPath="$PROJECT_DIR$/src/facade/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/ShapeCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/StartFacadeCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667840001754</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Bridge pattern lab">
+      <created>1668549041334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668549041335</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="Added registry methods" />
     <MESSAGE value="Added registry print methods" />
     <MESSAGE value="added runer class and completed task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added runer class and completed task" />
+    <MESSAGE value="added Bridge pattern lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Bridge pattern lab" />
   </component>
 </project>
