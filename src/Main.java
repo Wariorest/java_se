@@ -1,3 +1,4 @@
+import bridge.StartBridgeCode;
 import composite.CompositeStartCode;
 import memento.StartMemento;
 import prototype.StartPrototypeCode;
@@ -8,6 +9,7 @@ public class Main {
         //StartSingletoneCode.start(); //use for start Singletone code
         //StartPrototypeCode.run(); //use for start Prototype code
         //CompositeStartCode.run(); //use for run Composite code
-        StartMemento.run();
+        //StartMemento.run();
+        StartBridgeCode.run();
     }
 }
