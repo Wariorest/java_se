@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added Bridge pattern lab">
-      <change afterPath="$PROJECT_DIR$/src/facade/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/ShapeCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/StartFacadeCode.java" afterDir="false" />
+    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added Facade pattern lab">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Bard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/CharacterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/ClassFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/StartFMCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Stats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -37,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -123,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668549041335</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added Facade pattern lab">
+      <created>1668549372435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668549372435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +162,7 @@
     <MESSAGE value="Added registry print methods" />
     <MESSAGE value="added runer class and completed task" />
     <MESSAGE value="added Bridge pattern lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Bridge pattern lab" />
+    <MESSAGE value="added Facade pattern lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Facade pattern lab" />
   </component>
 </project>

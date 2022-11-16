@@ -1,6 +1,7 @@
 import bridge.StartBridgeCode;
 import composite.CompositeStartCode;
 import facade.StartFacadeCode;
+import factoryMethod.StartFMCode;
 import memento.StartMemento;
 import prototype.StartPrototypeCode;
 import singletone.StartSingletoneCode;
@@ -12,6 +13,7 @@ public class Main {
         //CompositeStartCode.run(); //use for run Composite code
         //StartMemento.run();
         //StartBridgeCode.run();
-        StartFacadeCode.run();
+        //StartFacadeCode.run();
+        StartFMCode.run();
     }
 }
