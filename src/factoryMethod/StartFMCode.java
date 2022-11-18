@@ -1,5 +1,7 @@
 package factoryMethod;
 
+import abstractFactory.ClassFactory;
+
 public class StartFMCode {
 
     public static void run(){

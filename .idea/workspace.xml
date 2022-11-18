@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added Facade pattern lab">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Barbarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Bard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/CharacterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/ClassFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/StartFMCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryMethod/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Stats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_25__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_25__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_28__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_28__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_29__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_29__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryMethod/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryMethod/Barbarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryMethod/Bard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryMethod/Bard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryMethod/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryMethod/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryMethod/ClassFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryMethod/ClassFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryMethod/StartFMCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryMethod/StartFMCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />

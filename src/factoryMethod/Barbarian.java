@@ -1,6 +1,8 @@
 package factoryMethod;
 
-public class Barbarian extends CharacterClass{
+import abstractFactory.CharacterClass;
+
+public class Barbarian extends CharacterClass {
     private String skill;
 
     public Barbarian(){
