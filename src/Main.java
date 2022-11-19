@@ -1,3 +1,4 @@
+import abstractFactory.StartAbstractFactoryCode;
 import bridge.StartBridgeCode;
 import composite.CompositeStartCode;
 import facade.StartFacadeCode;
@@ -5,6 +6,7 @@ import factoryMethod.StartFMCode;
 import memento.StartMemento;
 import prototype.StartPrototypeCode;
 import singletone.StartSingletoneCode;
+import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,5 +17,6 @@ public class Main {
         //StartBridgeCode.run();
         //StartFacadeCode.run();
         //StartFMCode.run();
+        StartAbstractFactoryCode.run();
     }
 }

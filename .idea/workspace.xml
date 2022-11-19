@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added abstract factory classes package">
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/StartAbstractFactoryCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/memento/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/memento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/CharacterRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/DwarfFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/HumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/RaceAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/race/RaceFactory.java" afterDir="false" />
+    <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="added abstract factory lab">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/Stats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/Stats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractFactory/StartAbstractFactoryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/StartAbstractFactoryCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstractFactory/classes/ClassFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/classes/ClassFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +65,7 @@
       <workItem from="1667829850449" duration="4756000" />
       <workItem from="1668869240036" duration="1397000" />
       <workItem from="1668872998250" duration="330000" />
-      <workItem from="1668886173314" duration="3748000" />
+      <workItem from="1668886173314" duration="4692000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
@@ -149,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668873124014</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added abstract factory lab">
+      <created>1668891089724</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668891089724</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +171,17 @@
     <MESSAGE value="added Bridge pattern lab" />
     <MESSAGE value="added Facade pattern lab" />
     <MESSAGE value="added abstract factory classes package" />
-    <option name="LAST_COMMIT_MESSAGE" value="added abstract factory classes package" />
+    <MESSAGE value="added abstract factory lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="added abstract factory lab" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

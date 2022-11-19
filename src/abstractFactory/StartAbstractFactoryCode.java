@@ -6,10 +6,11 @@ import abstractFactory.classes.ClassFactory;
 
 import java.util.Objects;
 
+
 public class StartAbstractFactoryCode {
     public static void run(){
         Character character = new Character("Wariorest",
-                Objects.requireNonNull(ClassFactory.getClass("abstractFactory.classes.Barbarian")),
+                Objects.requireNonNull(ClassFactory.getClass("Barbarian")),
                 RaceFactory.getRace(new DwarfFactory()));
         character.setAttributes(Stats.generate());
         character.addRaceBonuses();
