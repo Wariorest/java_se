@@ -1,8 +1,8 @@
 package abstractFactory.classes;
 
-import factoryMethod.Barbarian;
-import factoryMethod.Bard;
-import factoryMethod.CharacterClass;
+import abstractFactory.classes.Barbarian;
+import abstractFactory.classes.Bard;
+import abstractFactory.classes.CharacterClass;
 
 public class ClassFactory {
     public static CharacterClass getClass(String type){
