@@ -1,8 +1,6 @@
-package factoryMethod;
+package abstractFactory.classes;
 
-import factoryMethod.CharacterClass;
-
-public class Barbarian extends CharacterClass {
+public class Barbarian extends CharacterClass{
     private String skill;
 
     public Barbarian(){

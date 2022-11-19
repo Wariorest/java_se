@@ -1,6 +1,6 @@
 package factoryMethod;
 
-import abstractFactory.ClassFactory;
+import factoryMethod.ClassFactory;
 
 public class StartFMCode {
 

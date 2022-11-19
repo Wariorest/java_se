@@ -1,4 +1,4 @@
-package factoryMethod;
+package abstractFactory.classes;
 
 import factoryMethod.Barbarian;
 import factoryMethod.Bard;

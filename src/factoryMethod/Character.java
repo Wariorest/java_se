@@ -1,12 +1,12 @@
 package factoryMethod;
 
-import abstractFactory.CharacterClass;
+import factoryMethod.CharacterClass;
 
 import java.util.Set;
 
 public class Character {
     private String name;
-    private abstractFactory.CharacterClass dndClass;
+    private factoryMethod.CharacterClass dndClass;
     private Stats attributes;
     private int hp;
 

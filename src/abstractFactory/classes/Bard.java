@@ -1,8 +1,6 @@
-package factoryMethod;
+package abstractFactory.classes;
 
-import factoryMethod.CharacterClass;
-
-public class Bard extends CharacterClass {
+public class Bard extends CharacterClass{
     private String skill;
 
     public Bard(){
@@ -24,5 +22,4 @@ public class Bard extends CharacterClass {
         String castSkill = chooseCastedSkill(skillNumber);
         System.out.println("Class " + name + "can cast skill " + castSkill);
     }
-
 }
