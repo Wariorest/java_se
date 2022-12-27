@@ -6,6 +6,7 @@ import factoryMethod.StartFMCode;
 import memento.StartMemento;
 import prototype.StartPrototypeCode;
 import singletone.StartSingletoneCode;
+import treds.StartThreadCode;
 import visitor_JSON.StartVisitorCode;
 
 import java.io.IOException;
@@ -21,7 +22,8 @@ public class Main {
         //StartFacadeCode.run();
         //StartFMCode.run();
         //StartAbstractFactoryCode.run();
-        StartVisitorCode.run();
+        //StartVisitorCode.run();
+        StartThreadCode.Run();
 
     }
 }

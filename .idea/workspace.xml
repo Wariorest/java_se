@@ -5,38 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1af5d985-2648-493d-99ca-41e2bb20d875" name="Changes" comment="visitor-json lab">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/StartVisitorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/Stats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/classes/Barbarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/classes/Bard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/classes/CharacterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/classes/ClassFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/json-simple-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/memento/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/memento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/CharacterRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/DwarfFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/HumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/RaceAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/race/RaceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/visitor/DataElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/visitor/DataElementsVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visitor_JSON/visitor/ElementVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2022_22_56_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2022_22_56__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_25__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_25__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_28__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_28__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_29__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_10_29__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_21_06_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_11_2022_21_06__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treds/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treds/StartThreadCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treds/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treds/Thread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_se.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_se.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Characters.json" beforeDir="false" afterPath="$PROJECT_DIR$/Characters.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,25 +42,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Wario/IdeaProjects/java_se/src/visitor_JSON/json-simple-1.1.1.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Wario/IdeaProjects/java_se/src/visitor_JSON/json-simple-1.1.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -117,7 +95,10 @@
       <workItem from="1671142301347" duration="4882000" />
       <workItem from="1671149318183" duration="734000" />
       <workItem from="1671189959691" duration="2769000" />
-      <workItem from="1671193139510" duration="8889000" />
+      <workItem from="1671193139510" duration="9031000" />
+      <workItem from="1671228731279" duration="94000" />
+      <workItem from="1671750460235" duration="140000" />
+      <workItem from="1672108015079" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1664483789034</created>
@@ -196,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668891089724</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="visitor-json lab">
+      <created>1671216228731</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671216228731</updated>
+    </task>
+    <task id="LOCAL-00013" summary="visitor-json lab">
+      <created>1671216265496</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671216265496</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

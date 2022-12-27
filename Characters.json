@@ -1,1 +1,32 @@
-[{"Characteristics":"Values","Race":"visitor_JSON.race.Human@27bc2616","HP":8,"Stats":{"Charisma":6,"Dexterity":3,"Wisdom":4,"Intelligence":2,"Strength":6,"Constitution":3},"Class":"Class: Barbarian (uses 12D dice to roll hp)","Name":"Wariorest"},{"Characteristics":"Values","Race":"visitor_JSON.race.Dwarf@1ddc4ec2","HP":9,"Stats":{"Charisma":0,"Dexterity":4,"Wisdom":6,"Intelligence":3,"Strength":1,"Constitution":5},"Class":"Class: Barbarian (uses 12D dice to roll hp)","Name":"Farahorn"}]
+[
+    {
+        "Characteristics": "Values",
+        "Race": "visitor_JSON.race.Human@27bc2616",
+        "HP": 8,
+        "Stats": {
+            "Charisma": 6,
+            "Dexterity": 3,
+            "Wisdom": 4,
+            "Intelligence": 2,
+            "Strength": 6,
+            "Constitution": 3
+        },
+        "Class": "Class: Barbarian (uses 12D dice to roll hp)",
+        "Name": "Wariorest"
+    },
+    {
+        "Characteristics": "Values",
+        "Race": "visitor_JSON.race.Dwarf@1ddc4ec2",
+        "HP": 9,
+        "Stats": {
+            "Charisma": 0,
+            "Dexterity": 4,
+            "Wisdom": 6,
+            "Intelligence": 3,
+            "Strength": 1,
+            "Constitution": 5
+        },
+        "Class": "Class: Barbarian (uses 12D dice to roll hp)",
+        "Name": "Farahorn"
+    }
+]
